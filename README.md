@@ -1,1 +1,1 @@
-http://jebeauty.github.io
+jebeauty.github.io
